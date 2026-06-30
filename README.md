@@ -1,9 +1,5 @@
 # 👋 Olá! Eu sou Guilherme José da Silva Penha
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&width=700&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+em+formação;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
-</p>
-
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 **Desenvolvedor em formação**  
 🚀 **Buscando minha primeira oportunidade na área de Tecnologia**
