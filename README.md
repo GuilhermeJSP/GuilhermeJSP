@@ -70,7 +70,7 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação e curso 
 - 🌐 Desenvolvimento Web
 - 📱 Aplicações Mobile com .NET MAUI
 - 🗄️ Banco de Dados MySQL
-- ☕ Desenvolvimento Java
+- ☕ Desenvolvimento Java, C e C#
 - ⚙️ Algoritmos e Estruturas de Dados
 
 Cada repositório representa uma etapa da minha evolução como desenvolvedor e demonstra meu compromisso com o aprendizado contínuo.
