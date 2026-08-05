@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Guilherme José da Silva Penha
+# Olá! Eu sou Guilherme José da Silva Penha
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 **Desenvolvedor em formação**  
@@ -50,17 +50,6 @@ Estou sempre em busca de novos desafios e aprendizados para evoluir como desenvo
 
 <br/>
 <br/>
-
-## 📈 Atividade
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeJSP&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeJSP&theme=dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeJSP&theme=dark"/>
-</p>
 
 ## 🚀 Projetos
 
