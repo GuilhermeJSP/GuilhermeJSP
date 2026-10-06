@@ -65,5 +65,5 @@ Cada repositório representa uma etapa da minha evolução como desenvolvedor e 
 <br>
 
 <p align="center">
-IN PROGRESS... 🚧
+🚧 IN PROGRESS... 🚧
 </p>
