@@ -8,7 +8,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pelo desenvolvimento de soluções que unem lógica, organização e qualidade.
 
-Durante minha formação desenvolvi projetos utilizando **C, C#, Java, JavaScript, HTML, CSS e MySQL**, aplicando conceitos de programação orientada a objetos, estruturas de dados, banco de dados e desenvolvimento de aplicações.
+Durante minha formação desenvolvi projetos utilizando **C, C#, Java, JavaScript, HTML, CSS, MySQL e Oracle**, aplicando conceitos de programação orientada a objetos, estruturas de dados, banco de dados e desenvolvimento de aplicações.
 
 Minha experiência profissional na área administrativa fortaleceu habilidades como pensamento analítico, organização, resolução de problemas e atenção aos detalhes, competências que aplico diariamente no desenvolvimento de software.
 
@@ -26,17 +26,21 @@ Estou sempre em busca de novos desafios e aprendizados para evoluir como desenvo
 
 <img align="left" alt="Java" title="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
 <img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 <img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 
-<img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
+<img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+
+<img align="left" alt="Oracle" title="Oracle" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+          
 
 <img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
 
@@ -53,7 +57,7 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação e curso 
 
 - 💻 Desenvolvimento Desktop
 - 🌐 Desenvolvimento Web
-- 🗄️ Banco de Dados MySQL
+- 🗄️ Banco de Dados MySQL e Oracle
 - ☕ Desenvolvimento Java, C e C#
 - ⚙️ Algoritmos e Estruturas de Dados
 
@@ -62,5 +66,5 @@ Cada repositório representa uma etapa da minha evolução como desenvolvedor e 
 <br>
 
 <p align="center">
-Obrigado pela visita! 😄
+IN PROGRESS... 🚧
 </p>
