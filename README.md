@@ -6,13 +6,14 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pelo desenvolvimento de soluções que unem lógica, organização e qualidade.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software e na criação de soluções que unem lógica, organização e qualidade.
 
-Durante minha formação desenvolvi projetos utilizando **C, C#, Java, JavaScript, HTML, CSS, MySQL e Oracle**, aplicando conceitos de programação orientada a objetos, estruturas de dados, banco de dados e desenvolvimento de aplicações.
+Durante minha formação desenvolvi projetos utilizando **C, C#, Java, JavaScript, HTML, CSS, MySQL e Oracle**, aplicando conceitos de programação estruturada e orientada a objetos, estruturas de dados, banco de dados e desenvolvimento de aplicações.
 
 Minha experiência profissional na área administrativa fortaleceu habilidades como pensamento analítico, organização, resolução de problemas e atenção aos detalhes, competências que aplico diariamente no desenvolvimento de software.
 
 Estou sempre em busca de novos desafios e aprendizados para evoluir como desenvolvedor.
+
 
 ## 🌐 Contato
 
@@ -24,24 +25,22 @@ Estou sempre em busca de novos desafios e aprendizados para evoluir como desenvo
 
 ## 🚀 Tecnologias
 
+<img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c" />
+
+<img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cs" />
+
 <img align="left" alt="Java" title="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-
-<img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-<img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js" />
 
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-
 <img align="left" alt="Oracle" title="Oracle" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-          
-
+    
 <img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
 
 <img align="left" alt="Visual Studio" title="Visual Studio" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
@@ -66,5 +65,5 @@ Cada repositório representa uma etapa da minha evolução como desenvolvedor e 
 <br>
 
 <p align="center">
-IN PROGRESS... 🚧
+🚧 IN PROGRESS... 🚧
 </p>
