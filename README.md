@@ -8,7 +8,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pelo desenvolvimento de soluções que unem lógica, organização e qualidade.
 
-Durante minha formação desenvolvi projetos utilizando **C, C#, Java, JavaScript, PHP, HTML, CSS, MySQL e .NET MAUI**, aplicando conceitos de programação orientada a objetos, estruturas de dados, banco de dados e desenvolvimento de aplicações.
+Durante minha formação desenvolvi projetos utilizando **C, C#, Java, JavaScript, HTML, CSS e MySQL**, aplicando conceitos de programação orientada a objetos, estruturas de dados, banco de dados e desenvolvimento de aplicações.
 
 Minha experiência profissional na área administrativa fortaleceu habilidades como pensamento analítico, organização, resolução de problemas e atenção aos detalhes, competências que aplico diariamente no desenvolvimento de software.
 
@@ -34,13 +34,9 @@ Estou sempre em busca de novos desafios e aprendizados para evoluir como desenvo
 
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img align="left" alt="PHP" title="PHP" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt=".NET MAUI" title=".NET MAUI" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 <img align="left" alt="NetBeans" title="NetBeans" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
 
@@ -57,7 +53,6 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação e curso 
 
 - 💻 Desenvolvimento Desktop
 - 🌐 Desenvolvimento Web
-- 📱 Aplicações Mobile com .NET MAUI
 - 🗄️ Banco de Dados MySQL
 - ☕ Desenvolvimento Java, C e C#
 - ⚙️ Algoritmos e Estruturas de Dados
