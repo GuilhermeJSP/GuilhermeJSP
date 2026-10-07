@@ -25,7 +25,7 @@ Estou sempre em busca de novos desafios e aprendizados para evoluir como desenvo
 
 ## 🚀 Tecnologias
 
-<img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c" />
+<img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 <img align="left" alt="C#" title="C#" width="35px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cs" />
 
