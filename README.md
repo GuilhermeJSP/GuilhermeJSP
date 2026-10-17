@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 **Desenvolvedor em formação**  
-🚀 **Buscando minha primeira oportunidade na área de Tecnologia**
+🚀 **Buscando oportunidades na área de Tecnologia**
 
 ## 💻 Sobre mim
 
