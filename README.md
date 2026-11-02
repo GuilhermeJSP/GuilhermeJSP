@@ -60,10 +60,6 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação e curso 
 - ⚙️ Algoritmos e Estruturas de Dados
 
 Cada repositório representa uma etapa da minha evolução como desenvolvedor e demonstra meu compromisso com o aprendizado contínuo.
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJS&hide_progress=true&theme=dark)
-<br/>
 
 <p align="center">
 🚧 IN PROGRESS... 🚧
